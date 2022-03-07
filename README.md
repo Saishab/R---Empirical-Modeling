@@ -6,4 +6,4 @@ In this repo, you can find implementation of different modeling techniques in R 
 
 1. Statistical Machine Leanring.
 2. Computational Statistics.
-3.Some visualization with R.
+4.Some visualization with R.
