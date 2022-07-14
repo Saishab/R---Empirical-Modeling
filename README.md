@@ -1,9 +1,7 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-In this Repo we will be conducting projects related to Machine Leanring with R language
+
+![alt text](https://github.com/[Saishab]/[R---Empirical-Modeling]/blob/[Plots]/Industry Construction.png?raw=true)
+
+In this Repo we are conducting Empirical Modeling with Time Series Analysis approach in  R language
 
 In this repo, you can find implementation of different modeling techniques in R which falls under following terms :
-
-1. Statistical Machine Leanring.
-2. Computational Statistics.
-4.Some visualization with R.
