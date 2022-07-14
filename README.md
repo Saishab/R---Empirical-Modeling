@@ -1,6 +1,6 @@
 
 
-![alt text](https://github.com/[Saishab]/[R---Empirical-Modeling]/blob/[Plots]/Industry Construction.png?raw=true)
+![This is an image](https://github.com/[Saishab]/[R---Empirical-Modeling]/blob/[Plots]/Industry Construction.png?raw=true)
 
 In this Repo we are conducting Empirical Modeling with Time Series Analysis approach in  R language
 
