@@ -1,5 +1,4 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![Plots](Industry Construction.png)
 
 In this Repo we are conducting Empirical Modeling with Time Series Analysis approach in  R language
 
